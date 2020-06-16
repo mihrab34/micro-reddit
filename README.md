@@ -15,7 +15,7 @@ A micro-reddit database model built using rails Active records ORM.
 
     cd  micro-reddit
 
-    `run bundle install` to install all dependencies in the gem file
+    run bundle install to install all dependencies in the gem file
 
     run rails console to interact with the database
 ```
