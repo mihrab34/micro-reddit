@@ -2,32 +2,35 @@
 
 A micro-reddit database model built using rails Active records ORM.
 
-* System dependencies
+**System dependencies**
+
     ruby  ~ 2.5.3
 
     rails ~> 5.1.7
 
-* Configuration
+**Configuration**
 
-    $ git clone <https://github.com/mihrab34/micro-reddit>
+```
+    git clone <https://github.com/mihrab34/micro-reddit>
 
-    $ cd  micro-reddit
+    cd  micro-reddit
 
-    $ `run bundle install` to install all dependencies in the gem file
+    `run bundle install` to install all dependencies in the gem file
 
-    $ run rails console to interact with the database
+    run rails console to interact with the database
+```
 
-* Database creation
+**Database creation**
 
-    $ rails db:create
+  rails db:create
 
-* Database initialization
+**Database initialization**
 
-    $ rails db:migrate
+  rails db:migrate
 
 * Author
 
-[@mihrab34](https://github.com/mihrab34)
+  [@mihrab34](https://github.com/mihrab34)
 
 * Contribution
 
