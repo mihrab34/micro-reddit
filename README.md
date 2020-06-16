@@ -4,9 +4,9 @@ A micro-reddit database model built using rails Active records ORM.
 
 **System dependencies**
 
-    ruby  ~ 2.5.3
+  ruby  ~ 2.5.3
 
-    rails ~> 5.1.7
+  rails ~> 5.1.7
 
 **Configuration**
 
@@ -22,17 +22,17 @@ A micro-reddit database model built using rails Active records ORM.
 
 **Database creation**
 
-  rails db:create
+    rails db:create
 
 **Database initialization**
 
-  rails db:migrate
+    rails db:migrate
 
-* Author
+**Author**
 
   [@mihrab34](https://github.com/mihrab34)
 
-* Contribution
+**Contribution**
 
 Any contributions are **greatly appreciated**
 
