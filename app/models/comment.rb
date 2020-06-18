@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 class Comment < ApplicationRecord
-  belongs_to :user, :post
+  belongs_to :user
+  belongs_to :posts
   validates :body, presence: true
 end
