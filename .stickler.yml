@@ -1,0 +1,16 @@
+linters:
+  rubocop:
+    display_cop_names: true
+    # indicate where is the config file for rubocop
+    config: './rubocop.yml'
+
+# add the files here you want to be ignored by stickler
+files:
+  ignore:
+    - "bin/*"
+    - "db/*"
+    - "config/*"
+    - "Guardfile"
+    - "Rakefile"
+    - "README.md"
+    - "node_modules/**/*"
